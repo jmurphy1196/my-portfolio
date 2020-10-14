@@ -1,12 +1,1 @@
-{
-  "componentChunkName": "component---src-pages-index-js",
-  "path": "/",
-  "result": {
-    "data": {
-      "site": {
-        "meta": { "title": "Jason Murphy", "description": "A web devleloper" }
-      }
-    },
-    "pageContext": {}
-  }
-}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"site":{"meta":{"title":"Jason Murphy Web Developer","description":""}}},"pageContext":{}}}
